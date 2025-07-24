@@ -1,15 +1,15 @@
-📊 K-Means Clustering on Synthetic Data
+##📊 K-Means Clustering on Synthetic Data
 
 This project demonstrates the K-Means Clustering algorithm using Scikit-learn. It generates synthetic data with multiple clusters and applies K-Means to identify and visualize them.
 
 ---
 
-🔍 About the Data
+##🔍 About the Data
 The dataset is generated using make_blobs() and contains 300 samples grouped into 4 clusters with 2 features each. This synthetic data is ideal for visualizing unsupervised learning.
 
 ---
 
-🧠 ML Algorithm: K-Means
+##🧠 ML Algorithm: K-Means
 
 This project:
 Creates clustered data with make_blobs
@@ -26,7 +26,7 @@ Visualizes the clustered data and centroids using Matplotlib
 
 ---
 
-⚙️ Tech Stack
+##⚙️ Tech Stack
 Python
 
 NumPy
@@ -48,8 +48,11 @@ Scikit-learn
 
 ---
 
-🚫 License & Disclaimer
+##🚫 License & Disclaimer
 © 2025 Syed Imthiaz I — All rights reserved.
 Unauthorized copying, modification, distribution, or use of this code or any part of it is strictly prohibited without the express written permission of the author.
 
 📩 For permission requests, contact: syedimthiaz2006@gmail.com
+
+---
+
