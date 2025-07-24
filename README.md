@@ -4,7 +4,8 @@ This project demonstrates the K-Means Clustering algorithm using Scikit-learn. I
 
 ---
 
-## 🔍 About the Data
+## 🔍 About the Dataset
+
 The dataset is generated using make_blobs() and contains 300 samples grouped into 4 clusters with 2 features each. This synthetic data is ideal for visualizing unsupervised learning.
 
 ---
@@ -44,6 +45,14 @@ Scikit-learn
 
 ---
 
+## 👨‍💻 Author
+
+**Syed Imthiaz I**  
+B.E. Computer Science and Engineering  
+KCG College of Technology  
+ML Intern @ SystemTron – Generative AI Track  
+🔗 [LinkedIn](https://www.linkedin.com/in/syed-imthiaz-i-7a308b301/)  
+🔗 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7353802891968622594/)
 
 
 ---
