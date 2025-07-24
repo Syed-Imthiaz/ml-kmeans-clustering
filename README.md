@@ -1,4 +1,5 @@
 📊 K-Means Clustering on Synthetic Data
+
 This project demonstrates the K-Means Clustering algorithm using Scikit-learn. It generates synthetic data with multiple clusters and applies K-Means to identify and visualize them.
 
 ---
@@ -36,17 +37,14 @@ Scikit-learn
 
 ---
 
-📈 Sample Output
-Clearly grouped data points into clusters
+## 📸 Output
 
-Cluster centroids marked with red X’s
+![K-Means Clustering Output](https://github.com/Syed-Imthiaz/ml-kmeans-clustering/blob/main/K-Means%20Clustering.JPG?raw=true)
+
 
 ---
 
-✅ How to Run
 
-pip install -r requirements.txt
-python kmeans_clustering.py
 
 ---
 
